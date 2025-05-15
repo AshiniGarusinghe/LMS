@@ -1,2 +1,2 @@
 # LMS
-Library Management System using React
+Library Management System using Python
