@@ -24,7 +24,7 @@ library_management_system/
 
 ## 🚀 How to Run
 Clone the repository (or download manually):
-  git clone git clone [https://github.com/AshiniGarusinghe/LMS.git](https://github.com/AshiniGarusinghe/Library-Management-System.git)
+  git clone git clone https://github.com/AshiniGarusinghe/Library-Management-System.git
   cd library-management-system
 
 Run the program:
